@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<h1>hey</h1>
+<p>This is the art list that'll be filled soon.</p>
+
+
+<div class="row">
+    {% for painting in art_list %}
+    <div class="col-md-4 text-center">
+        <a href="{{ painting.get_absolute_url }}">
+        <img src="{{ painting.picture.url }}" alt="image of painting" width="200">
+        <div class="well well-sm">
+            <h3>{{ painting.title }}</h3>
+        </div>
+        </a>
+    </div>
+    {% endfor %}
+</div>
+
+{% endblock %}
