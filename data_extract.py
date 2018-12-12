@@ -16,21 +16,21 @@ for tr in table_painting.find_all('tr')[2:]:
         if td.img:
             td.string = td.img('data-src')
         elif td.a:
-            td.string = td.text
+            td.string = td.a.text
 
 for tr in table_painting.find_all('tr')[:2]:
     for td in tr.find_all('td'):
         if td.img:
             td.string = td.img('src')
         elif td.a:
-            td.string = td.text
+            td.string = td.a.text
 
 for tr in table_statue.find_all("tr"):
     for td in tr.find_all("td"):
         if td.img:
             td.string = td.img['data-src']
         elif td.a:
-            td.string = td.text
+            td.string = td.a.text
 
     # rows.append(tr)
 
