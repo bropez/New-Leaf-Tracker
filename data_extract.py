@@ -9,17 +9,28 @@ table_statue = soup.find_all("table", {"class": "wikitable"})
 
 rows = []
 
-# this is to set all of the img tag's sources into it's td instead
-# it also adds all of the information to the rows list
-for tr in table_painting.find_all("tr"):
-    for td in tr.find_all("td"):
+# this changes all of the td's img data-src's and src's to the text
+# TODO: refactor this into something more pythonic
+for tr in table_painting.find_all('tr')[2:]:
+    for td in tr.find_all('td'):
         if td.img:
-            td.string = td.img['src']
+            td.string = td.img('data-src')
+        elif td.a:
+            td.string = td.text
+
+for tr in table_painting.find_all('tr')[:2]:
+    for td in tr.find_all('td'):
+        if td.img:
+            td.string = td.img('src')
+        elif td.a:
+            td.string = td.text
 
 for tr in table_statue.find_all("tr"):
     for td in tr.find_all("td"):
         if td.img:
-            td.string = td.img['src']
+            td.string = td.img['data-src']
+        elif td.a:
+            td.string = td.text
 
     # rows.append(tr)
 
