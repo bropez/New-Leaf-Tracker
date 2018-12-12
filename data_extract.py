@@ -5,7 +5,7 @@ import csv
 html = urlopen('https://animalcrossing.fandom.com/wiki/Forgery')
 soup = BeautifulSoup(html, "html.parser")
 table_painting = soup.find_all("table", {"class": "wikitable"})[0]
-table_statue = soup.find_all("table", {"class": "wikitable"})
+table_statue = soup.find_all("table", {"class": "wikitable"})[1]
 
 rows = []
 
