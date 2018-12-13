@@ -1,199 +1,33 @@
-"
-",<th>Picture of Real Art</th>,"
-",<th>Title and Artist</th>,"
-",<th>How to Spot the Fake</th>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Great_Wave_off_Kanagawa2.jpg</td>,"
-","<td><em>Great Wave off Kanagawa</em><br/>Hokusai<br/><br/>""Dynamic Painting""</td>","
-","<td>In the fake, Mt. Fuji is very large and takes up most of the space under the
-wave. If Mt. Fuji is small, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/las-meninas.jpg</td>,"
-","<td><em>Las Meninas</em><br/>Diego Velasquez<br/><br/>""Solemn Painting""</td>","
-","<td>If the blonde girl is twice as tall as the girl to the left, it's fake.
-If the blonde girl is close to the same height as the girl to the left, 
-it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/300px-Johannes_Vermeer_-_De_melkmeid.jpg</td>,"
-","<td><em>The Milkmaid</em><br/>Johannes Vermeer<br/><br/>""Quaint Painting""</td>","
-","<td>If she is not wearing a hat, it's fake. If she is wearing a white hat, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/300px-Thomas_Gainsborough_008.jpg</td>,"
-","<td><em>The Blue Boy</em><br/>Thomas Gainsborough<br/><br/>""Basic Painting""</td>","
-","<td>If both of his arms are bent at his sides, it's fake. If only one of his arms is
-bent, it's genuine.</td>","
-"
-"
-","<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_natural_color.jpg</td>","
-","<td><em>Mona Lisa</em><br/>Leonardo Da Vinci<br/><br/>""Famous Painting""</td>","
-","<td>If her fingers are pointing to the bottom left corner of the picture, it's fake. 
-If her fingers are pointing
-to the bottom right corner of the picture, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/cezanne.jpg</td>,"
-","<td><em>Apples and Oranges</em><br/>Paul Cézanne<br/><br/>""Perfect Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/714px-Rembrandt_nightwatch_large.jpg</td>,"
-","<td><em>The Night Watch</em><br/>Rembrandt<br/><br/>""Amazing Painting""</td>","
-","<td>If the man in white is on the left and the man in black is on the right, it's
-fake. If the man in white is on the right and the man in black is on the left, it's
-genuine.</td>","
-"
-"
-","<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/349px-Manet,_Edouard_-_Young_Flautist,_or_The_Fifer,_1866_(2).jpg</td>","
-","<td><em>Young Flautist</em><br/>Édouard Manet<br/><br/>""Nice Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg</td>,"
-","<td><em>The Birth of Venus</em><br/>Sandro Botticelli<br/><br/>""Moving Painting""</td>","
-",<td>The fake has an upside-down shell.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/gleaners.jpg</td>,"
-","<td><em>The Gleaners</em><br/>Jean-François Millet<br/><br/>""Common Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/464px-Van_Gogh_Vase_with_Fifteen_Sunflowers.jpg</td>,"
-","<td><em>Sunflowers</em><br/>Vincent van Gogh<br/><br/>""Flowery Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/800px-Goya_Maja_ubrana2.jpg</td>,"
-","<td><em>The Clothed Maja</em><br/>Francisco Goya<br/><br/>""Warm Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-","<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Arcimboldo,_Summer_(1573).jpg</td>","
-","<td><em>Summer</em><br/>Giuseppe Arcimboldo<br/><br/>""Jolly Painting""</td>","
-","<td>If the nose is made of a carrot and has green leaves hanging down, it's fake.
-If the nose is made of a green vegetable, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/757px-Paul_Gauguin_006.jpg</td>,"
-","<td><em>Arearea</em><br/>Paul Gaugin<br/><br/>""Fine Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-","<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Toshusai_Sharaku-_Otani_Oniji,_1794.jpg</td>","
-","<td><em>Otani Oniji II</em><br/>T&amp;omacr;sh&amp;umacr;sai Sharaku<br/><br/>""Scary Painting""</td>","
-","<td>If he is only pointing one finger of each hand, it's fake. 
-If he has all fingers sticking out, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Edouard_Manet_004.jpg</td>,"
-","<td><em>A Bar at the Folies-Bergère</em><br/>Édouard Manet<br/><br/>""Proper Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/758px-Canestra_di_frutta_(Caravaggio).jpg</td>,"
-","<td><em>Basket of Fruit</em><br/>Caravaggio<br/><br/>""Neutral Painting""</td>","
-","<td>If the big green leaf on the top left has a hole in it from being eaten by insects,
-it's fake. If there is no hole made by insects in the big green leaf, it's genuine.</td>","
-"
-"<td colspan=""100000""><div class=""google-ad standard"" itemscope="""" itemtype=""http://schema.org/WPAdBlock""><script async="""" src=""//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js""></script>
-<!-- Animal Crossing: New Leaf Responsive -->
-<ins class=""adsbygoogle"" data-ad-client=""ca-pub-6128914580512562"" data-ad-format=""auto"" data-ad-slot=""6965344837"" style=""display:block""></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div></td>"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/liberty.jpg</td>,"
-","<td><em>Liberty Leading the People</em><br/>Eugène Delacroix<br/><br/>""Worthy Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-","<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/800px-A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg</td>","
-","<td><em>A Sunday Afternoon on the Island of La Grande 
-Jatte</em><br/>Georges-Pierre Seurat<br/><br/>""Calm Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/sower.jpg</td>,"
-","<td><em>The Sower</em><br/>Jean-François Millet<br/><br/>""Moody Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Johannes_Vermeer_(1632-1675)_-_The_Girl_With_The_Pearl_Earring_(1665).jpg</td>,"
-","<td><em>Girl with a Pearl Earring</em><br/>Johannes Vermeer<br/><br/>""Wistful Painting""</td>","
-","<td>If her hat is red, it's fake. If her hat is blue, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/435px-Dama_z_gronostajem.jpg</td>,"
-","<td><em>Lady with an Ermine</em><br/>Leonardo Da Vinci<br/><br/>""Serene Painting""</td>","
-","<td>If she is holding a fluffy white cat with a fluffy tail, it's fake. 
-If she is holding a skinny white
-ermine with no tail, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/hunters-in-snow.jpg</td>,"
-","<td><em>The Hunters in the Snow</em><br/>Pieter Bruegel<br/><br/>""Scenic Painting""</td>","
-",<td>This painting is always genuine.</td>,"
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/800px-Fujinraijin-tawaraya.jpg</td>,"
-","<td><em>Wind God and Thunder God</em><br/>Tawaraya Sotatsu<br/><br/>""Wild Painting""</td>","
-","<td>If the dark one is on the left and the light one is on the right, it's fake.
-If the light one is on the left and the dark one is on the right, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Beauty_looking_back.jpg</td>,"
-","<td><em>Beauty Looking Back</em><br/>Hishikawa Moronobu<br/><br/>""Graceful Painting""</td>","
-","<td>If she is looking to the left, it's fake. If she is looking
-to the right, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Venus_de_Milo_Louvre_Ma399.jpg</td>,"
-","<td><em>Venus de Milo</em><br/>Unknown<br/><br/>""Beautiful Statue""</td>","
-","<td>If she has long hair down to her shoulders, it's fake. If her hair only goes down to 
-cover her ears, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Nike_of_Samothrake_Louvre_Ma2369_n2.jpg</td>,"
-","<td><em>Nike of Samothrace</em><br/>Unknown<br/><br/>""Valiant Statue""</td>","
-","<td>If it has bat wings, it's fake. If it has feathery angel wings, it's
-genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/David_von_Michelangelo.jpg</td>,"
-","<td><em>David</em><br/>Michaelangelo<br/><br/>""Gallant Statue""</td>","
-","<td>If there is cloth hanging down his right shoulder, it's fake. If his right shoulder
-is bare, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Greek_statue_discus_thrower_2_century_aC.jpg</td>,"
-","<td><em>Discobolus of Myron</em><br/>Unknown<br/><br/>""Robust Statue""</td>","
-","<td>If he is holding an object that has bumps on it, it's fake. If he is holding a smooth
-disc, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Kamehameha_I_full_5111.jpg</td>,"
-","<td><em>King Kamehameha I</em><br/>Thomas R. Gould<br/><br/>""Great Statue""</td>","
-","<td>If his arm is angled downward, it's fake. If his arm is angled upward, it's
-genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Nofretete_Neues_Museum.jpg</td>,"
-","<td><em>Bust of Nefertiti</em><br/>Thutmose<br/><br/>""Mystic Statue""</td>","
-","<td>If her hat is spherical, it's fake. If her hat is
-cylindrical, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/Dogu_Miyagi_1000_BCE_400_BCE.jpg</td>,"
-","<td><em>Dog&amp;umacr;</em><br/>Unknown<br/><br/>""Ancient Statue""</td>","
-","<td>If its eyes are open, it's fake. If its eyes are closed, it's genuine.</td>","
-"
-"
-",<td>https://www.thonky.com/animal-crossing-new-leaf/paintings/She-wolf_suckles_Romulus_and_Remus.jpg</td>,"
-","<td><em>Captoline Wolf</em><br/>Unknown<br/><br/>""Motherly Statue""</td>","
-","<td>If there is only one child below the wolf, it's fake. If there are
-two children, it's genuine.</td>","
-"
+Amazing painting,https://vignette.wikia.nocookie.net/animalcrossing/images/5/58/Amazing_Painting_%28forgery%29.png/revision/latest?cb=20160701151321,https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/Int_art_rembra.png/revision/latest?cb=20160702202732,"The man in black and red is standing on the right in the fake painting, while the genuine painting has him standing on the left."
+Basic painting,https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/Basic_Painting_%28forgery%29.png/revision/latest?cb=20160501191535,https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/Int_art_bravely.png/revision/latest?cb=20160702201605,"The forged painting has a man with both hands on his hips, whereas the genuine has one hand on the hip."
+Calm painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/Int_art_wonderful.png/revision/latest?cb=20160702203448,This painting is always authentic.
+Common painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/Int_art_intimacy.png/revision/latest?cb=20160702202400,This painting is always authentic.
+Dynamic painting,https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/Dynamic_Painting_%28forgery%29.png/revision/latest?cb=20160701150743,https://vignette.wikia.nocookie.net/animalcrossing/images/3/38/Int_art_iki.png/revision/latest?cb=20160702202155,The fake painting has a large mountain and the genuine painting has a small mountain.
+Famous painting,https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/Famous_Painting_%28forgery%29.png/revision/latest?cb=20160701145011,https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/Int_art_famous.png/revision/latest?cb=20160702201649,"The hand position in the forged painting is left over right, while in the genuine it is right over left."
+Fine painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/3/37/Int_art_splendid.png/revision/latest?cb=20160702202933,This painting is always authentic.
+Flowery painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/Int_art_matchless.png/revision/latest?cb=20160702201136,This painting is always authentic.
+Graceful painting,https://vignette.wikia.nocookie.net/animalcrossing/images/f/f4/Graceful_Painting_%28forgery%29.png/revision/latest?cb=20160215031336,https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/Int_art_beauty.png/revision/latest?cb=20160702201341,The woman is looking to the left in the fake painting and is looking to the right in the real painting.
+Jolly painting,https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/Jolly_Painting_%28forgery%29.png/revision/latest?cb=20160701151822,https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/Int_art_interesting.png/revision/latest?cb=20160702202249,The man has a carrot nose in the forged painting and a cucumber nose in the genuine.
+Moody painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/Int_art_powerful.png/revision/latest?cb=20160702202640,This painting is always authentic.
+Moving painting,https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/Moving_Painting_%28forgery%29.png/revision/latest/scale-to-width-down/103?cb=20160501191537,https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Int_art_goodlooking.png/revision/latest?cb=20160702202008,"The fake painting includes a shell facing downward, whereas in the real painting, it is upward."
+Neutral painting,https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/Neutral_Painting_%28forgery%29.png/revision/latest?cb=20160124184508,https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/Int_art_skillful.png/revision/latest?cb=20160702202831,"The forged painting has a hole in the top left leaf, while in the genuine painting there is no hole."
+Nice painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/Int_art_manet.png/revision/latest?cb=20160702202546,This painting is always authentic.
+Perfect painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/Int_art_fantastic.png/revision/latest?cb=20160702201735,This painting is always authentic.
+Proper painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/Int_art_lively.png/revision/latest?cb=20160702202447,This painting is always authentic.
+Quaint painting,https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/Quaint_Painting_%28forgery%29.png/revision/latest?cb=20160501191534,https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/Int_art_becomecalm.png/revision/latest?cb=20160702201459,The woman does not wear anything on her head in the fake painting and is wearing a bonnet in the genuine.
+Scary painting,https://vignette.wikia.nocookie.net/animalcrossing/images/8/8b/Scary_Painting_%28forgery%29.png/revision/latest?cb=20160701150515,https://vignette.wikia.nocookie.net/animalcrossing/images/3/36/Int_art_stylish.png/revision/latest?cb=20160702203056,"The man's index fingers are shown in the forged painting, whereas his entire hands are opened in the real painting."
+Scenic painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/Int_art_admirable.png/revision/latest?cb=20160702201251,This painting is always authentic.
+Serene painting,https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/Serene_Painting_%28forgery%29.png/revision/latest?cb=20160330030858,https://vignette.wikia.nocookie.net/animalcrossing/images/4/4a/Int_art_feminin.png/revision/latest?cb=20160702201834,"The forged painting features a woman holding a cat, while in the genuine painting, she is holding a ferret."
+Solemn painting,https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/Solemn_Painting_%28forgery%29.png/revision/latest/scale-to-width-down/85?cb=20160124185502,https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/Int_art_velazq.png/revision/latest?cb=20160702203226,The woman wearing the white dress is tall in the fake painting and short in the real one.
+Warm painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/Int_art_goya.png/revision/latest?cb=20160702202053,This painting is always authentic.
+Wild painting,https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/Wild_Painting_%28forgery%29.png/revision/latest/scale-to-width-down/185?cb=20160701145711,https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/Int_art_wild_2.png/revision/latest?cb=20160702203331,"The dark figure is on the left in the forged painting, whereas it is on the right in the genuine."
+Wistful painting,https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/Wistful_Painting_%28forgery%29.png/revision/latest?cb=20160501191536,https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/Int_art_fine.png/revision/latest?cb=20160702201925,"The woman in the fake painting is wearing an orange headband, while in the real painting, it is blue."
+Worthy painting,N/A,https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/Int_art_valuable.png/revision/latest?cb=20160702203149,This painting is always authentic.
+Ancient statue,https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/Statue_Ancient_Forged.png/revision/latest/scale-to-width-down/125?cb=20160702200921,https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/Statue_Ancient_Real.png/revision/latest/scale-to-width-down/110?cb=20160702200920,"The forged statue has halfway opened eyes, whereas the genuine has closed eyes."
+Beautiful statue,https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/Statue_Beautiful_Forged.png/revision/latest/scale-to-width-down/150?cb=20160703180609,https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/Statue_Beautiful_Real.png/revision/latest/scale-to-width-down/145?cb=20160702200919,The fake statue has long hair and the genuine statue has short hair.
+Gallant statue,https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/Statue_Gallant_Forged.png/revision/latest/scale-to-width-down/130?cb=20160702200919,https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/Statue_Gallant_Real.png/revision/latest/scale-to-width-down/160?cb=20160703180710,"The forged statue has a towel on both shoulders, while the genuine has a sling, which only drapes over the left shoulder."
+Great statue,https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/Statue_Great_Forged.png/revision/latest/scale-to-width-down/165?cb=20160702200754,https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/Statue_Great_Real.png/revision/latest/scale-to-width-down/170?cb=20160702200753,The fake statue has a downward-faced palm and the genuine statue has an upward-facing palm.
+Motherly statue,https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/Statue_Motherly_Forged.png/revision/latest/scale-to-width-down/170?cb=20160702200753,https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/Statue_Motherly_Real.png/revision/latest/scale-to-width-down/170?cb=20160703180816,"The forged statue has one child, while the real statue has two children."
+Mystic statue,https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/Statue_Mystic_Forged.png/revision/latest/scale-to-width-down/160?cb=20160702200752,https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/Statue_Mystic_Real.png/revision/latest/scale-to-width-down/190?cb=20160702200752,The fake statue has a round crown and the genuine statue has a cylinder crown.
+Robust statue,https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/Statue_Robust_Forged.png/revision/latest/scale-to-width-down/170?cb=20160702200751,https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/Statue_Robust_Real.png/revision/latest/scale-to-width-down/147?cb=20160702200751,"The forged statue is throwing a UFO, whereas the genuine statue is throwing a discus."
+Valiant statue,https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/Statue_Valiant_Forged.png/revision/latest/scale-to-width-down/180?cb=20160702200751,https://vignette.wikia.nocookie.net/animalcrossing/images/b/b4/Statue_Valiant_Real.png/revision/latest/scale-to-width-down/175?cb=20160702200750,"The fake statue has bat wings, while the real statue has angel wings."

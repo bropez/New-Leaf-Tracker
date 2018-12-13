@@ -1,11 +1,12 @@
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
+import requests
 import csv
 
-html = urlopen('https://animalcrossing.fandom.com/wiki/Forgery')
-soup = BeautifulSoup(html, "html.parser")
-table_painting = soup.find_all("table", {"class": "wikitable"})[0]
-table_statue = soup.find_all("table", {"class": "wikitable"})[1]
+url = 'https://animalcrossing.fandom.com/wiki/Forgery'
+page = requests.get(url)
+soup = BeautifulSoup(page.text, "html.parser")
+table_painting = soup.find('table', {'class': 'wikitable'})
+table_statue = soup.find_all('table', {'class': 'wikitable'})[-1]
 
 rows = []
 
@@ -17,6 +18,7 @@ for tr in table_painting.find_all('tr')[2:]:
             td.string = td.img('data-src')
         elif td.a:
             td.string = td.a.text
+        td.string = td.text.strip()
 
 for tr in table_painting.find_all('tr')[:2]:
     for td in tr.find_all('td'):
@@ -24,6 +26,7 @@ for tr in table_painting.find_all('tr')[:2]:
             td.string = td.img('src')
         elif td.a:
             td.string = td.a.text
+        td.string = td.text.strip()
 
 for tr in table_statue.find_all("tr"):
     for td in tr.find_all("td"):
@@ -31,11 +34,14 @@ for tr in table_statue.find_all("tr"):
             td.string = td.img['data-src']
         elif td.a:
             td.string = td.a.text
+        td.string = td.text.strip()
 
-    # rows.append(tr)
+for row in table_painting.find_all('tr'):
+    rows.append([val.get_text() for val in row.find_all('td')])
 
-# TODO: Need to find out how to transfer these two tables above into one and into a formatted csv
+for row in table_statue.find_all('tr'):
+    rows.append([val.get_text() for val in row.find_all('td')])
 
-# with open('output_file.csv', 'w') as f:
-#     writer = csv.writer(f)
-#     writer.writerows(rows)
+with open('output_file.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(row for row in rows if row)
