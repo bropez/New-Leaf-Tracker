@@ -3,16 +3,19 @@
 
 <div class="row">
     <div class="col-md-6">
-        <img src="{{ object.real_img.url }}" alt="I hope this shows" width="500">
+        <img src="{{ object.real_img.url }}" alt="I hope this shows" width="400">
     </div>
     <div class="col-md-6 well well-sm">
-        <h2>Artist name, 1920</h2> <!-- {{ object.artist_name }}, {{ object.artist_birth }} - {{ object.artist_death }} -->
-        <h2>{{ object.title }}, 1993</h2>
-        <h4>Acrylic on canvas</h4> <!-- maybe change this for painting and sculpture -->
+        <h2>{{ object.title }}</h2>
+
+        {% if 'statue' in object.title %}
+            <h4>Sculpted marble</h4>
+        {% elif 'painting' in object.title %}
+            <h4>Acrylic on canvas</h4>
+        {% endif %}
 
         <p style="margin-top: 50px;">{{ object.description }}</p>
-        <p>Partial gift of username which was aquired from a shady art collecting kitsune that only goes by the name
-            "Crazy Redd"</p>
+        <p>Gracious gift from "Crazy Redd"</p>
         <p style="margin-bottom: 50px;">2018</p> <!-- {{ object.date_aquired }} -->
     </div>
 </div>

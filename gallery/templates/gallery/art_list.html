@@ -3,18 +3,22 @@
 
 {% block content %}
 
-<h1>hey</h1>
-<p>This is the art list that'll be filled soon.</p>
+<h1>Redd's Art Gallery</h1>
+<p>Welcome to Redd's Art Gallery. Redd is a fox that comes once a week to sell a piece of artwork but out of the four
+    that he brings only one with be authentic. To store the art in your museum they have to be authentic, this is a
+    helpful
+    guide that'll stop you from buying all of that katsune's fakes. All titles, images, and descriptions were taken from
+    <a href="https://animalcrossing.fandom.com/wiki/Forgery">The Animal Crossing New Leaf Forgery Wiki.</a></p>
 
 
 <div class="row">
     {% for painting in art_list %}
     <div class="col-md-4 text-center">
         <a href="{{ painting.get_absolute_url }}">
-        <img src="{{ painting.real_img.url }}" alt="image of painting" width="200">
-        <div class="well well-sm">
-            <h3>{{ painting.title }}</h3>
-        </div>
+            <img src="{{ painting.real_img.url }}" alt="image of painting" height="180">
+            <div class="well well-sm">
+                <h3>{{ painting.title }}</h3>
+            </div>
         </a>
     </div>
     {% endfor %}
