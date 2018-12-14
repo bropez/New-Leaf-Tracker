@@ -4,8 +4,7 @@ from django.urls import reverse
 
 class Art(models.Model):
     title = models.CharField(max_length=120)
-    original_title = models.CharField(max_length=120)
-    picture = models.ImageField(upload_to='art_images')
+    real_img = models.ImageField(upload_to='art_images')
     description = models.TextField()
 
     def get_absolute_url(self):

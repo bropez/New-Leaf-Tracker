@@ -27,7 +27,7 @@ def populate(N=5):
 
     for entry in range(N):
         artwork = Art(title="Redd's new title", original_title="Its a night",
-                                            description="This the new descrip")
+                      description="This the new descrip")
         artwork.picture.save('star_painting.jpg', File(open('starry_night.jpg', 'rb')))
 
 
